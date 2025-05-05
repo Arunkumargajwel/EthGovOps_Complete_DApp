@@ -1,1 +1,3 @@
-# EthGovOps_Complete_DApp
+# Eth GovOps Project
+
+Setup Instructions...
